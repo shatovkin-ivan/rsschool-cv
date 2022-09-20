@@ -5,6 +5,7 @@
 ### Contact information:
 
 ***Phone:*** _+8-017-1234567_
+
 ***E-mail:*** _shatowkin.ivan@yandex.ru_
 
 ## About me
