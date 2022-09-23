@@ -1,2 +1,2 @@
  
-[cv][https://shatovkin-ivan.github.io/rsschool-cv/]
+[cv](https://shatovkin-ivan.github.io/rsschool-cv/)
